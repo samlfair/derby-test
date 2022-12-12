@@ -20,6 +20,6 @@
   "dependencies": {
     "derby": "^0.10.27",
     "derby-starter": "^0.4.8",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
